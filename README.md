@@ -1,7 +1,7 @@
 # SHAP_tutorials
 A game theoretic approach to explain the output of any machine learning model
 SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model.
-Thank you to Scott Lundberg
+Thank you to Scott Lundberg for the extensive explanation and Github repository!
 https://github.com/slundberg/shap
 
 SHAP — which stands for SHapley Additive exPlanations — is probably the state of the art in Machine Learning explainability. This algorithm was first published in 2017 by Lundberg and Lee and it is a brilliant way to reverse-engineer the output of any predictive algorithm.
